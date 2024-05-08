@@ -1,0 +1,7 @@
+# Python code to prompt a user to enter their name
+
+# Ask for the user's name with input()
+name = input("Please enter your name: ")
+
+# Print a greeting with the input provided
+print(f"Hello, {name}! Welcome!")
